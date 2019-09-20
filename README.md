@@ -6,7 +6,7 @@ Ultimately, we want to end up with a directory of members of our team.
 
 ## Tasks
 
- - Clone this repository.
+ - Clone this repository (don't fork first).
  - Create a uniquely named branch for your profile page, e.g. `raghu-b`.
  - In your editor of choice (I recommend VSCode), create a file for your page ending with `.html`, e.g. `raghu-b.html`.
  - Add the following code to the file (with your name instead):
