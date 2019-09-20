@@ -16,3 +16,10 @@ Ultimately, we want to end up with a directory of members of our team.
     ```
 
  - Open the file in your browser of choice (I recommend Chrome).
+ - You can go on to write some copy in the file:
+   - Where and what did you study?
+   - What is your area of interest?
+   - Which PI are you working with?
+   - Where are you from?
+   - How long have you been in Chicago?
+   - Is there any spot in Chicago you've been meaning to check out?
